@@ -48,3 +48,5 @@ out/
 
 # --- Express stuff (if you're using views/static) ---
 public/uploads/
+
+.env
